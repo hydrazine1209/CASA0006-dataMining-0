@@ -1,2 +1,4 @@
 # CASA0006-dataMining-0
-finding and displaying clusters
+Finding and displaying clusters within data
+
+First method was DBSCAN, now K-Means
